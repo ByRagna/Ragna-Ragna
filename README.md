@@ -1,6 +1,6 @@
 <div align="center">
 
-#   Ragna
+#  Ragna
 
 ```x86asm
 mov rax, [rip + curiosity]
@@ -29,3 +29,11 @@ call understand_the_metal
 ---
 
 ### 🧰 The Workbench
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=byRagna&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y)](https://git.io/streak-stats)
+
+</div>
